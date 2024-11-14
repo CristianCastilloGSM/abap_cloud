@@ -1,4 +1,4 @@
-CLASS zcl_metodos_013 DEFINITION
+CLASS zcl_join_021 DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_metodos_013 IMPLEMENTATION.
+CLASS zcl_join_021 IMPLEMENTATION.
 
 
 METHOD if_oo_adt_classrun~main.
